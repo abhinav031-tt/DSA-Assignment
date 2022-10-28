@@ -3,7 +3,8 @@
 Name = Abhinav Tiwari
 
 '''
-   #Question :- Q6. Read about infix, prefix, and postfix expressions. Write a program to convert postfix to prefix expression and Q7. Write a program to convert prefix expression to infix expression.
+   #Question :- Q6. Read about infix, prefix, and postfix expressions. Write a program to convert postfix to prefix expression and 
+   #Ques 7. Write a program to convert prefix expression to infix expression.
 
 
 
